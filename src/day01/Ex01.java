@@ -10,5 +10,7 @@ public class Ex01 {
 
 		System.out.print("안녕하세요");
 		System.out.print("자바 시간입니다.");
+		
+		
 	}
 }
